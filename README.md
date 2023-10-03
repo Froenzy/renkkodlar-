@@ -1,2 +1,2 @@
-# renkkodlar-
+# renkkodlari
 Renk kodları
